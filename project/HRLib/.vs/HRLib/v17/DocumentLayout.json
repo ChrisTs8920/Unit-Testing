@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xrhstos\\Desktop\\project\\HRLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA9D58B-F454-4D83-B1F9-11001D795615}|HRLib\\HRLib.csproj|c:\\users\\xrhstos\\desktop\\project\\hrlib\\hrlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA9D58B-F454-4D83-B1F9-11001D795615}|HRLib\\HRLib.csproj|solutionrelative:hrlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Xrhstos\\Desktop\\project\\HRLib\\HRLib\\Class1.cs",
+              "RelativeDocumentMoniker": "HRLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\Xrhstos\\Desktop\\project\\HRLib\\HRLib\\Class1.cs",
+              "RelativeToolTip": "HRLib\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:47:02.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

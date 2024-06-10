@@ -1,0 +1,6 @@
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\bin\Debug\HRLib.dll
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\bin\Debug\HRLib.pdb
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\obj\Debug\HRLib.csproj.AssemblyReference.cache
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\obj\Debug\HRLib.csproj.CoreCompileInputs.cache
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\obj\Debug\HRLib.dll
+C:\Users\Xrhstos\Desktop\HRLib\HRLib\obj\Debug\HRLib.pdb

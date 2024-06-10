@@ -1,0 +1,16 @@
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Unittests.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Unittests.pdb
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\HRLib.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\obj\Debug\Unittests.csproj.AssemblyReference.cache
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\obj\Debug\Unittests.csproj.CoreCompileInputs.cache
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\obj\Debug\Unittests.csproj.Up2Date
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\obj\Debug\Unittests.dll
+C:\Users\Xrhstos\Desktop\Unittests\Unittests\obj\Debug\Unittests.pdb
