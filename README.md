@@ -9,7 +9,7 @@ It consists of two parts:
 - **HRLib:** The library intended for testing, contains 6 methods - functions.
 - **Unittests:** The project that tests the methods of HRLib.
 
->*This project was made during my software quality class.*
+>*This project was made during our software quality class.*
 
 ## A more in depth look at HRLib
 
